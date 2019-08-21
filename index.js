@@ -15,4 +15,9 @@ function theBeatlesPlay(musician,instrument){
     }
     return newFacts;
  }
- 
+ function iLoveTheBeatles(num){
+   var empty=[]
+   do{
+     empty[i]
+   }
+ }
