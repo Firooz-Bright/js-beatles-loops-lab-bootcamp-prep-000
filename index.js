@@ -16,12 +16,12 @@ function theBeatlesPlay(musician,instrument){
     return newFacts;
  }
  function iLoveTheBeatles(num){
-   var like=[];
+   var empty=[];
   
    do{
-   like.push("I love the Beatles!");
+ empty.push("I love the Beatles!");
      num+=num;
    }while(num<=15);
    
-    return like;
+    return empty;
  }
