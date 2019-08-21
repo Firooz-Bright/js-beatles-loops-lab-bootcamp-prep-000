@@ -18,6 +18,6 @@ function theBeatlesPlay(musician,instrument){
  function iLoveTheBeatles(num){
    var empty=[]
    do{
-     empty[i]
+     empty[i].push("")
    }
  }
