@@ -1,8 +1,8 @@
 // add solution here
 function theBeatlesPlay(musician,instrument){
   var arry=[]
-  for(var i=0;i<m.length;i++){
-    
+  for(var i=0;i<musician.length;i++){
+    arry.push(musician[i])
   }
   
 }
