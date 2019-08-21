@@ -4,5 +4,5 @@ function theBeatlesPlay(musician,instrument){
   for(var i=0;i<musician.length;i++){
     arry.push(musician[i]+"play"+instrument[i]);
   }
-  return arry
+  return arry;
 }
