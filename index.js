@@ -1,6 +1,8 @@
 // add solution here
-function theBeatlesPlay(m,i){
+function theBeatlesPlay(musician,nstrument){
   var arry=[]
-  
+  for(var i=0;i<m.length;i++){
+    
+  }
   
 }
