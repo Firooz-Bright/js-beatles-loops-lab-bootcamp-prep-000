@@ -20,7 +20,7 @@ function theBeatlesPlay(musician,instrument){
   
    do{
  empt.push("I love the Beatles!");
-     num+=num;
+     num++;
    }while(num<15);
    
     return empt;
