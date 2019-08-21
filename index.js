@@ -17,8 +17,8 @@ function theBeatlesPlay(musician,instrument){
  }
  function iLoveTheBeatles(num){
    var empty=[];
-   var i=0;
+  
    do{
-     empty[i].push("I love the Beatles!");
+     empty.push("I love the Beatles!");
    }while(num<15);
  }
